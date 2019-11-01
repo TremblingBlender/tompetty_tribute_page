@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Playfair Display', serif;
+}
+
+#title{
+    font-size: 40px;
+}
+
+.image-resize{
+    width: 75%;
+
+}
+
+.intro{
+    text-align: center;
+}
+
+.text{
+    padding: 0px 40px 0px 40px;
+}
+
+#tribute-link{
+    padding: 10px 0px 0px 0px;
+    text-align: center;
+}
+
+a{
+    color: lightblue;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
